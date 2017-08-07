@@ -1,0 +1,327 @@
+.background{
+    background-color: black;
+    background-image: url("planets.jpg"), url("white.jpg");
+    background-size: 1600px 900px, 1600px 3500px;
+    background-repeat: no-repeat;
+    overflow: scroll;
+  
+   
+}
+
+html, body, div{
+    margin: 0;
+    padding: 0;
+}
+
+.name{
+    font-family: "Times New Roman";
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    align-content: center;
+    padding-top: 300px;
+    
+}
+
+#a{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 900px;
+    background-color: black;
+    width: 1450px;
+}
+
+#AboutMe{
+    position: absolute;
+    top: 921px;
+    left: 0px;
+
+}
+
+#b{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 1256px;
+    background-color: black;
+    width: 1450px;
+}
+
+.links{
+   color: white;
+   padding-left: 370px;
+}
+.space1{
+    padding-right: 10px;
+}
+
+
+
+
+
+
+.Zeki{
+    float: left;
+    margin-top: 55px;
+    margin-left: 47px;
+    margin-right: 47px;
+   
+}
+
+.text{
+    padding: 10px;
+    font-size: 25px;
+    width: 750px;
+    overflow: auto;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+
+#Education{
+    position: absolute;
+    top: 1302px;
+    left: 0px;
+
+}
+.rutgers{
+    float: left;
+    margin-left: 47px;
+    margin-top: 25px;
+    margin-right: 47px;
+  
+}
+.b1{
+    font-size: 30px;
+    padding-right: 50px;
+    overflow: auto;
+}
+.b2{
+    float: left;
+    margin-right: 20px;
+    margin-left: 30px;
+  
+}
+.b3{
+    background-color: black;
+    height: 300px;
+    width: 770px;
+    position: absolute;
+    top: 1302px;
+    left: 345px;
+}
+
+.b4{
+    color: white;
+    padding: 10px;
+}
+
+#c{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    position: absolute;
+    top: 1600px;
+    background-color: black;
+    width: 1450px;
+    color: white;
+}
+
+#Skills{
+    position: absolute;
+    top: 1646px;
+    left: 0px;
+
+}
+
+.skills{
+    float: left;
+    margin-left: 47px;
+    margin-top: 20px;
+    margin-right: 47px;
+}
+
+#d{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    position: absolute;
+    top: 1945px;
+    background-color: black;
+    width: 1450px;
+    color: white;
+}
+
+#Projects{
+    position: absolute;
+    top: 1991px;
+    left: 0px;
+}
+.projects{
+    float: left;
+    margin-left: 47px;
+    margin-top: 20px;
+    margin-right: 47px;
+}
+
+.links a{
+    color:white;
+}
+
+.links a:visited{
+    color:white;
+}
+
+
+#e{
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 2291px;
+    background-color: black;
+    width: 1450px;
+    color: white;
+}
+
+#LeadershipExperience{
+    position: absolute;
+    top: 2337px;
+    left: 0px;
+}
+
+.leadership{
+    float: left;
+    margin-left: 47px;
+    margin-top: 20px;
+    margin-right: 47px;
+}
+
+.design1{
+    background-color: black;
+    height: 2400px;
+    width: 55px;
+    position: absolute;
+    top: 946px;
+}
+
+.design2{
+    background-color: black;
+    height: 2400px;
+    width: 55px;
+    position: absolute;
+    top: 946px;
+    left: 1395px;
+}
+
+.c1{
+    width: 750px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    overflow: auto;
+    padding-bottom: 30px;
+}
+
+.d1{
+    padding:10px;
+    background-color: black;
+    color: white;
+    overflow: auto;
+    width: 750px;
+    font-size: 18px;
+}
+
+.e1{
+    width: 750px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    overflow: auto;
+}
+
+#f{
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 2637px;
+    background-color: black;
+    width: 1450px;
+    color: white; 
+}
+
+#WorkExperience{
+    position: absolute;
+    top: 2683px;
+    left: 0px;
+}
+
+.work{
+    float: left;
+    margin-left: 47px;
+    margin-top: 20px;
+    margin-right: 47px;
+}
+
+.f1{
+    width: 750px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    overflow: auto;
+}
+
+#g{
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 2983px;
+    background-color: black;
+    width: 1450px;
+    color: white;
+}
+
+#Accomplishments{
+    position: absolute;
+    top: 3029px;
+    left: 0px;
+}
+
+.accom{
+    float: left;
+    margin-left: 47px;
+    margin-top: 20px;
+    margin-right: 47px;
+}
+
+.g1{
+    width: 750px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    overflow: auto;
+    padding-bottom: 150px;
+}
+
+.break{
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 3329px;
+    background-color: black;
+    width: 1450px;
+    height:45px;
+}
+
+footer{
+    color:white;
+    position: absolute;
+    top:3345px;
+    left: 10px;
+}
+
+ul{
+    width: 1050px;
+}
